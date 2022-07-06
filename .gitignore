@@ -1,4 +1,4 @@
-new-file.txt
+another-file.txt
 # ignore all files in bin directory
 bin/
 # ignore all .tmp files
